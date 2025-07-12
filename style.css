@@ -29,7 +29,7 @@
 
 .nav-buttons button {
   margin-left: 0.5rem;
-  padding: 0.5rem 1rem;
+  padding: 1rem 1.5rem;
   border-radius: 25px;
   border: none;
   background-color: #eee;
@@ -38,7 +38,7 @@
 }
 
 .nav-buttons button:hover {
-  background-color: #816666;
+  background-color: #696969;
 }
 * {
   margin: 0;
@@ -113,4 +113,7 @@ text-decoration: none;
 
 .site-footer .socials a:hover {
 color: #fff;
+}
+a{
+  font: size 20px;
 }
